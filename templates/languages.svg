@@ -70,10 +70,10 @@ div.ellipsis {
 
 .progress {
   display: flex;
-  height: 8px;
+  height: 16px;
   overflow: hidden;
   background-color: #00000000;
-  border-radius: 6px;
+  border-radius: 2px;
   outline: 1px solid transparent;
   margin-bottom: 1em;
 }
